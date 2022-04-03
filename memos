@@ -4,3 +4,6 @@ AWSに経験豊富の方のブログを見たら、
 AWSコンソールを使用するよりも、CLIで使用した方が裏のロジックと親しめられて、
 同じような作業を繰り返さなくて済むようになります。Don't Repeat Yourself (DRY).
 https://myaws.rocks/aws-basics/
+
+AWSリージョンのコード
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html
