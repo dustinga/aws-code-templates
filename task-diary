@@ -20,3 +20,13 @@
 ・AWS CLI のインストール
 ・AWS アカウントの認証情報の設定
 ・複数のプロファイルを設定する方法
+
+////////////////////////////////////////////////////////////////////////////////////////////
+ルートユーザーのログインによるのCloudWatchのアラームを設定します。
+（参考、英語：　https://docs.fugue.co/FG_R00062.html）
+https://medium.com/globant/configure-aws-security-alerts-with-cloudwatch-40bf5c7f3ec4
+////////////////////////////////////////////////////////////////////////////////////////////
+★概要★
+CloudTrailの作成
+1. CloudTrailのログイベントようのMetricFilterの作成
+2. MetricFilterのアラームの作成
