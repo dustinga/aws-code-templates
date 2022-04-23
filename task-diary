@@ -23,6 +23,10 @@
 
 ////////////////////////////////////////////////////////////////////////////////////////////
 AWS Billing ConsoleでRootUserだけではなくてIAMユーザーも料金・請求を見えるように設定します。
+（参考、英語：https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_billing.html)
+（参考、日本語：https://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/tutorial_billing.html)
+
+古い参考：
 （参考1、英語：　https://myaws.rocks/setting-up-your-aws-account/)
 →「enable IAM users to access billing information」の辺り
 (参考2、https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/control-access-billing.html#grantaccess)
